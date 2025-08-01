@@ -78,7 +78,7 @@ values
 (5, 'hunter'),
 (5, 'loopshooter');
 
--- Speciast branches
+-- Specialist branches
 insert into branch(class_id, branch_name)
 values
 (6, 'push stroker'),
