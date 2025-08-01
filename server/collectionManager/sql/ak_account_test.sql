@@ -196,8 +196,8 @@ begin
     insert into collected_operator(collected_operated_id, operator_id, account_id, operator_level, 
     operator_promotion, operator_potential, operator_skill_level, module_level)
     values
-    (1, 1, 1, 90, 'Elite 2', 6, 7, 3),
-    (2, 2, 1, 80, 'Elite 2', 3, 7, 3);
+    (1, 1, 1, 90, 'elite 2', 6, 7, 3),
+    (2, 2, 1, 80, 'elite 2', 3, 7, 3);
     
     insert into collected_skill(collected_skill_id, collected_operator_id, skill_id, skill_mastery)
     values
